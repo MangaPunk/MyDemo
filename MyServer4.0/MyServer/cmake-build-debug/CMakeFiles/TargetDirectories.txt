@@ -1,0 +1,3 @@
+C:/Users/Manganese/Desktop/Fserver/cmake-build-debug/CMakeFiles/lab_2.dir
+C:/Users/Manganese/Desktop/Fserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Manganese/Desktop/Fserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
